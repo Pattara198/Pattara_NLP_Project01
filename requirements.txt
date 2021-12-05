@@ -16,5 +16,4 @@ nltk==3.5
 tensorflow==2.6.0
 pythainlp==2.3.2
 gensim==4.1.2
-re
 bs4
