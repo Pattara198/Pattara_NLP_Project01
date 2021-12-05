@@ -28,7 +28,6 @@ from sklearn import metrics
 from sklearn.metrics import roc_auc_score, accuracy_score
 from sklearn.pipeline import Pipeline
 
-import logging
 
 import tensorflow as tf
 from tensorflow.math import reduce_prod
